@@ -1,0 +1,36 @@
+@font-face{
+    font-family: 'QuicksandBook';
+    src: url('../fonts/Quicksand_Book-webfont.eot');
+    src: url('../fonts/Quicksand_Book-webfont.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/Quicksand_Book-webfont.woff') format('woff'),
+    url('../fonts/Quicksand_Book-webfont.ttf') format('truetype'),
+    url('../fonts/Quicksand_Book-webfont.svg#QuicksandBook') format('svg');
+    font-weight: normal;
+    font-style: normal;}
+@font-face{
+    font-family: 'cornerstoneregular';
+    src: url('../fonts/cornerstone-webfont.eot');
+    src: url('../fonts/cornerstone-webfont.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/cornerstone-webfont.woff') format('woff'),
+    url('../fonts/cornerstone-webfont.ttf') format('truetype'),
+    url('../fonts/cornerstone-webfont.svg#cornerstoneregular') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+@font-face{
+    font-family: 'simplificasimplifica';
+    src: url('../fonts/simplifica_typeface-webfont.eot');
+    src: url('../fonts/simplifica_typeface-webfont.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/simplifica_typeface-webfont.woff2') format('woff2'),
+    url('../fonts/simplifica_typeface-webfont.woff') format('woff'),
+    url('../fonts/simplifica_typeface-webfont.ttf') format('truetype'),
+    url('../fonts/simplifica_typeface-webfont.svg#simplificasimplifica') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+.galleria{
+    width: 960px;
+    margin: 0px auto;
+    margin-top: 100px;
+    text-align: center;
+}
