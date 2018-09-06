@@ -28,6 +28,30 @@
     font-weight: bold;
     font-style: normal;
 }
+
+@-ms-viewport {
+    width: device-width; }
+body {
+    -ms-overflow-style: scrollbar; }
+
+html, body, div, span, applet, object,
+iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
+pre, a, abbr, acronym, address, big, cite,
+code, del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var, b,
+u, i, center, dl, dt, dd, ol, ul, li, fieldset,
+form, label, legend, table, caption, tbody,
+tfoot, thead, tr, th, td, article, aside,
+canvas, details, embed, figure, figcaption,
+footer, header, hgroup, menu, nav, output, ruby,
+section, summary, time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline; }
+
 body{
     color: #ffffff;
     background-image: url("../images/background-2.JPG");
@@ -43,6 +67,8 @@ body{
     padding: 0px;
     overflow-x: hidden;
 }
+
+
 
 @media screen and (max-width: 480px) {
     html, body {
@@ -110,16 +136,6 @@ body{
     ul.actions:not(.fixed) li button.icon:before,
     ul.actions:not(.fixed) li .button.icon:before {
         margin-left: -0.5rem; } }
-
-@media screen and (max-width: 1280px) {
-    .wrapper {
-        padding: 4rem 0 2rem 0 ; } }
-@media screen and (max-width: 736px) {
-    .wrapper {
-        padding: 3rem 0 1rem 0 ; } }
-@media screen and (max-width: 480px) {
-    .wrapper {
-        padding: 2rem 0 0.1rem 0 ; } }
 
 @media screen and (max-width: 1280px) {
     #banner video {
