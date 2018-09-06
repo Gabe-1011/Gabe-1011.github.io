@@ -273,9 +273,8 @@ body{
     font-size: 4rem;
     margin-bottom: 1rem; }
 #banner p {
-    font-family: simplificasimplifica, Helvetica, Arial, sans-serif;
     font-weight: bolder;
-    font-size: 3.5rem;
+    font-size: 2.0rem;
     color: #DDAC2C;
     text-align: center; }
 
@@ -571,7 +570,7 @@ p{
 
 p.about-p{
     font-family: simplificasimplifica, Helvetica, Arial, sans-serif;
-    font-size: 3.5rem;
+    font-size: 1.0rem;
 }
 
 h2.passion-header2{
