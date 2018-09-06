@@ -544,6 +544,7 @@ h2.hi{
 }
 
 h3{
+    font-family: simplificasimplifica, Helvetica, Arial, sans-serif;
     font-weight: 300;
     line-height: 1.5;
     text-transform: uppercase;
@@ -553,6 +554,7 @@ h3{
 }
 
 h4{
+    font-family: simplificasimplifica, Helvetica, Arial, sans-serif;
     font-weight: 300;
     line-height: 1.5;
     text-transform: uppercase;
@@ -563,6 +565,7 @@ h4{
 }
 
 p{
+    font-family: simplificasimplifica, Helvetica, Arial, sans-serif;
     color: #444444;
     text-align: justify;
 }
